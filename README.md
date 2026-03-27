@@ -24,7 +24,7 @@
 - I participated in **RoboMaster** competitions during my undergraduate years.
 - I am highly interested in **robotics algorithms** and have studied **SLAM**.
 - I am currently building an **AI Agent project**.
-- I am one of the main contributors to [WordAgent](https://github.com/visresearch/WordAgent).
+- I am the author of [WordAgent](https://github.com/visresearch/WordAgent) and one of its contributors.
 
 ## 🚀 Current Focus
 
@@ -60,14 +60,14 @@
 ## 📌 Featured Project
 
 - [WordAgent](https://github.com/visresearch/WordAgent)
-	- Contributed to core feature development and iterative improvements.
+	- Author and contributor, leading core feature development and iterative improvements.
 	- Focused on Agent capability design, workflow optimization, and maintainability.
 
 ## 📈 GitHub Stats
 
 <div align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyuexingchennnn&show_icons=true&hide_border=true&theme=default&locale=cn" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyuexingchennnn&layout=compact&hide_border=true&theme=default&locale=cn" alt="Top Langs" />
+	<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riyuexingchennnn&show_icons=true&hide_border=true&theme=default&locale=en" alt="GitHub stats" />
+	<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riyuexingchennnn&layout=compact&hide_border=true&theme=default&locale=en" alt="Top Langs" />
 </div>
 
 <div align="center">
