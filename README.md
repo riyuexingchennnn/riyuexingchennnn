@@ -59,7 +59,7 @@
 
 ## 📌 Featured Project
 
-- [WordAgent](https://github.com/visresearch/WordAgent)
+- [WordAgent](https://github.com/visresearch/WordAgent) ![GitHub stars](https://img.shields.io/github/stars/visresearch/WordAgent?style=social&label=Star)
 	- Author and contributor, leading core feature development and iterative improvements.
 	- Focused on Agent capability design, workflow optimization, and maintainability.
 
