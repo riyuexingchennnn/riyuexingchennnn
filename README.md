@@ -24,7 +24,6 @@
 - I participated in **RoboMaster** competitions during my undergraduate years.
 - I am highly interested in **robotics algorithms** and have studied **SLAM**.
 - I am currently building an **AI Agent project**.
-- I am the author of [WordAgent](https://github.com/visresearch/WordAgent) and one of its contributors.
 
 ## 🚀 Current Focus
 
@@ -45,14 +44,16 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 ## 🧰 Common Tools
 
 <p>
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+	<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+	<img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+	<img src="https://custom-icon-badges.demolab.com/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 	<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome" />
 </p>
@@ -66,12 +67,24 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img height="165" src="https://github-readme-stats-zujz.vercel.app/api?username=riyuexingchennnn&show_icons=true&hide_border=true&theme=default&locale=en" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats-zujz.vercel.app/api/top-langs/?username=riyuexingchennnn&layout=compact&hide_border=true&theme=default&locale=en" alt="Top Langs" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zujz.vercel.app/api?username=riyuexingchennnn&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=2f81f7&text_color=f0f6fc&icon_color=2f81f7&ring_color=2f81f7&locale=en" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zujz.vercel.app/api?username=riyuexingchennnn&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=2f81f7&text_color=1f2328&icon_color=2f81f7&ring_color=2f81f7&locale=en" />
+        <img height="165" src="https://github-readme-stats-zujz.vercel.app/api?username=riyuexingchennnn&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=2f81f7&text_color=1f2328&icon_color=2f81f7&ring_color=2f81f7&locale=en" alt="GitHub stats" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zujz.vercel.app/api/top-langs/?username=riyuexingchennnn&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=2f81f7&text_color=f0f6fc&icon_color=2f81f7&locale=en" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zujz.vercel.app/api/top-langs/?username=riyuexingchennnn&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=2f81f7&text_color=1f2328&icon_color=2f81f7&locale=en" />
+        <img height="165" src="https://github-readme-stats-zujz.vercel.app/api/top-langs/?username=riyuexingchennnn&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=2f81f7&text_color=1f2328&icon_color=2f81f7&locale=en" alt="Top Langs" />
+    </picture>
 </div>
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyuexingchennnn&bg_color=ffffff&color=1f2328&line=2f81f7&point=1f6feb&area=true&hide_border=true" alt="activity graph" />
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-three-weld.vercel.app/graph?username=riyuexingchennnn&bg_color=00000000&title_color=2f81f7&color=f0f6fc&line=2f81f7&point=2f81f7&area=true&hide_border=true" />
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-three-weld.vercel.app/graph?username=riyuexingchennnn&bg_color=00000000&title_color=2f81f7&color=1f2328&line=2f81f7&point=2f81f7&area=true&hide_border=true" />
+		<img src="https://github-readme-activity-graph-three-weld.vercel.app/graph?username=riyuexingchennnn&bg_color=00000000&title_color=2f81f7&color=1f2328&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="activity graph" />
+	</picture>
 </div>
 
 ## 📬 Contact
