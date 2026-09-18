@@ -21,9 +21,9 @@
 ## 🙋 About Me
 
 - I studied **Computer Science** at **CSU** as an undergraduate.
-- I am pursuing a master's degree in **Artificial Intelligence** at **NKU**, where I am a member of the [**LAPC**](https://www.nkulapc.com/) laboratory.
-- I participated in **RoboMaster** competitions as a member of the [**FYT**](https://github.com/CSU-FYT-Vision) team during my undergraduate years.
-- I previously interned at [**Flexiv**](https://github.com/flexivrobotics), developing application software for the company's force-controlled robotic arms.
+- I am pursuing a master's degree in **Artificial Intelligence** at **NKU**.
+- I participated in **RoboMaster** competitions during my undergraduate years.
+- I previously interned at **Flexiv** and developed application software for robotic arms.
 - I am currently studying **SLAM** and **3DGS** algorithms.
 - I build **AI Agents**, with a focus on **harness design**.
 
