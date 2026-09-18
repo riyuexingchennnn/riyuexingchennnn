@@ -24,8 +24,6 @@
 - I am pursuing a master's degree in **Artificial Intelligence** at **NKU**.
 - I participated in **RoboMaster** competitions during my undergraduate years.
 - I previously interned at **Flexiv** and developed application software for robotic arms.
-- I am currently studying **SLAM** and **3DGS** algorithms.
-- I build **AI Agents**, with a focus on **harness design**.
 
 ## 🚀 Current Focus
 
