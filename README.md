@@ -20,17 +20,18 @@
 
 ## 🙋 About Me
 
-- I am **riyuexingchennnn**, an undergraduate student in computer science.
+- I studied **Computer Science** at **CSU** as an undergraduate.
+- I am pursuing a master's degree in **Artificial Intelligence** at **NKU**, where I am a member of the [**LAPC**](https://www.nkulapc.com/) laboratory.
 - I participated in **RoboMaster** competitions during my undergraduate years.
-- I am highly interested in **robotics algorithms** and have studied **SLAM**.
-- I am currently building an **AI Agent project**.
+- I am currently studying **SLAM** and **3DGS** algorithms.
+- I build **AI Agents**, with a focus on **harness design**.
 
 ## 🚀 Current Focus
 
 - 🤖 Robotics perception and decision-making algorithms
-- 🧭 SLAM engineering and localization/mapping workflows
-- 🧠 AI Agent systems with LLM + Tools + Workflow design
-- 🛠️ Turning algorithms into reusable and extensible software components
+- 🧭 SLAM algorithms for localization and mapping
+- 🌐 3DGS for scene reconstruction and rendering
+- 🧠 AI Agent harness design, integrating LLMs and tools
 
 ## 📚 Currently Learning
 
@@ -45,6 +46,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
 ## 🧰 Common Tools
@@ -62,7 +64,11 @@
 
 - [WordAgent](https://github.com/visresearch/WordAgent) ![GitHub stars](https://img.shields.io/github/stars/visresearch/WordAgent?style=social&label=Star)
 	- Author and contributor, leading core feature development and iterative improvements.
-	- Focused on Agent capability design, workflow optimization, and maintainability.
+	- Focused on Agent capability development, harness design, and maintainability.
+
+- [BehaviorTreeMonitor](https://github.com/riyuexingchennnn/BehaviorTreeMonitor) ![GitHub stars](https://img.shields.io/github/stars/riyuexingchennnn/BehaviorTreeMonitor?style=social&label=Star)
+	- A real-time behavior tree monitoring tool based on the BehaviorTree.CPP Groot2 protocol.
+	- Supports monitoring more than 20 nodes, including nodes inside subtrees.
 
 ## 📈 GitHub Stats
 
@@ -89,8 +95,8 @@
 
 ## 📬 Contact
 
-- Open to discussions about robotics algorithms, SLAM, AI Agents, and engineering practice.
-- Feel free to reach out via GitHub Issues, Discussions, or profile contact channels.
+- Open to discussions about **SLAM**, **3DGS**, robotics algorithms, and **AI Agent harness design**.
+- Feel free to connect through GitHub or open an issue in the relevant project to discuss ideas and collaboration.
 
 ---
 
